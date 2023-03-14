@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UnrecruitedAnt
+  - rock
+  - wasp
+  - heart
+  - ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3050547709
+    locked: 0
+  - name: Foreground
+    uniqueID: 3061916127
+    locked: 0
+  - name: Objects
+    uniqueID: 443162875
+    locked: 0
+  - name: Ant
+    uniqueID: 212977977
+    locked: 0
+  - name: Rock
+    uniqueID: 3292706465
+    locked: 0
